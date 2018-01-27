@@ -1,3 +1,4 @@
+package singletonPattern;
 
 //Thread Safe & Lazy Loaded singleton pattern
 public class SingletonPattern {
